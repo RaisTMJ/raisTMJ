@@ -55,11 +55,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/vaygeth89/reactive_flutter_todo_database_app/pull/3) in [vaygeth89/reactive_flutter_todo_database_app](https://github.com/vaygeth89/reactive_flutter_todo_database_app)
-2. 💪 Opened PR [#3](https://github.com/hannah-mazri/portfolio/pull/3) in [hannah-mazri/portfolio](https://github.com/hannah-mazri/portfolio)
-3. ❌ Closed PR [#2](https://github.com/hannah-mazri/portfolio/pull/2) in [hannah-mazri/portfolio](https://github.com/hannah-mazri/portfolio)
-4. 💪 Opened PR [#2](https://github.com/hannah-mazri/portfolio/pull/2) in [hannah-mazri/portfolio](https://github.com/hannah-mazri/portfolio)
-5. ❗️ Opened issue [#1](https://github.com/hannah-mazri/portfolio/issues/1) in [hannah-mazri/portfolio](https://github.com/hannah-mazri/portfolio)
+1. ❗️ Reopened issue [#8](https://github.com/gtgalone/currency_text_input_formatter/issues/8) in [gtgalone/currency_text_input_formatter](https://github.com/gtgalone/currency_text_input_formatter)
+2. 🗣 Commented on [#8](https://github.com/gtgalone/currency_text_input_formatter/issues/8) in [gtgalone/currency_text_input_formatter](https://github.com/gtgalone/currency_text_input_formatter)
+3. ❗️ Closed issue [#8](https://github.com/gtgalone/currency_text_input_formatter/issues/8) in [gtgalone/currency_text_input_formatter](https://github.com/gtgalone/currency_text_input_formatter)
+4. ❗️ Opened issue [#8](https://github.com/gtgalone/currency_text_input_formatter/issues/8) in [gtgalone/currency_text_input_formatter](https://github.com/gtgalone/currency_text_input_formatter)
+5. 💪 Opened PR [#3](https://github.com/vaygeth89/reactive_flutter_todo_database_app/pull/3) in [vaygeth89/reactive_flutter_todo_database_app](https://github.com/vaygeth89/reactive_flutter_todo_database_app)
 <!--END_SECTION:activity-->
 
 </details>
