@@ -2,7 +2,7 @@
 
 ## I'm a  Developer, and friendly neighborhood spiderman!! 🕷️
 
-- 🌱 I’m currently learning everything 🤣, more on ux designing and data structure
+- 🌱 I’m currently learning more on flutter ,ux designing and data structure
 - 🥅 2020 Goals: to read more documentation 🍇
 - ⚡  I love to watch movies and series (b99) and animation
 
