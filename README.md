@@ -55,11 +55,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#8](https://github.com/gtgalone/currency_text_input_formatter/issues/8) in [gtgalone/currency_text_input_formatter](https://github.com/gtgalone/currency_text_input_formatter)
+1. ❗️ Closed issue [#8](https://github.com/gtgalone/currency_text_input_formatter/issues/8) in [gtgalone/currency_text_input_formatter](https://github.com/gtgalone/currency_text_input_formatter)
 2. 🗣 Commented on [#8](https://github.com/gtgalone/currency_text_input_formatter/issues/8) in [gtgalone/currency_text_input_formatter](https://github.com/gtgalone/currency_text_input_formatter)
-3. ❗️ Closed issue [#8](https://github.com/gtgalone/currency_text_input_formatter/issues/8) in [gtgalone/currency_text_input_formatter](https://github.com/gtgalone/currency_text_input_formatter)
-4. ❗️ Opened issue [#8](https://github.com/gtgalone/currency_text_input_formatter/issues/8) in [gtgalone/currency_text_input_formatter](https://github.com/gtgalone/currency_text_input_formatter)
-5. 💪 Opened PR [#3](https://github.com/vaygeth89/reactive_flutter_todo_database_app/pull/3) in [vaygeth89/reactive_flutter_todo_database_app](https://github.com/vaygeth89/reactive_flutter_todo_database_app)
+3. ❗️ Reopened issue [#8](https://github.com/gtgalone/currency_text_input_formatter/issues/8) in [gtgalone/currency_text_input_formatter](https://github.com/gtgalone/currency_text_input_formatter)
+4. 🗣 Commented on [#8](https://github.com/gtgalone/currency_text_input_formatter/issues/8) in [gtgalone/currency_text_input_formatter](https://github.com/gtgalone/currency_text_input_formatter)
+5. ❗️ Closed issue [#8](https://github.com/gtgalone/currency_text_input_formatter/issues/8) in [gtgalone/currency_text_input_formatter](https://github.com/gtgalone/currency_text_input_formatter)
 <!--END_SECTION:activity-->
 
 </details>
