@@ -55,11 +55,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/gtgalone/currency_text_input_formatter/issues/8) in [gtgalone/currency_text_input_formatter](https://github.com/gtgalone/currency_text_input_formatter)
-2. 🗣 Commented on [#8](https://github.com/gtgalone/currency_text_input_formatter/issues/8) in [gtgalone/currency_text_input_formatter](https://github.com/gtgalone/currency_text_input_formatter)
-3. ❗️ Reopened issue [#8](https://github.com/gtgalone/currency_text_input_formatter/issues/8) in [gtgalone/currency_text_input_formatter](https://github.com/gtgalone/currency_text_input_formatter)
+1. 🎉 Merged PR [#1](https://github.com/RaisTMJ/twelve-ball-riddle/pull/1) in [RaisTMJ/twelve-ball-riddle](https://github.com/RaisTMJ/twelve-ball-riddle)
+2. 💪 Opened PR [#1](https://github.com/RaisTMJ/twelve-ball-riddle/pull/1) in [RaisTMJ/twelve-ball-riddle](https://github.com/RaisTMJ/twelve-ball-riddle)
+3. ❗️ Closed issue [#8](https://github.com/gtgalone/currency_text_input_formatter/issues/8) in [gtgalone/currency_text_input_formatter](https://github.com/gtgalone/currency_text_input_formatter)
 4. 🗣 Commented on [#8](https://github.com/gtgalone/currency_text_input_formatter/issues/8) in [gtgalone/currency_text_input_formatter](https://github.com/gtgalone/currency_text_input_formatter)
-5. ❗️ Closed issue [#8](https://github.com/gtgalone/currency_text_input_formatter/issues/8) in [gtgalone/currency_text_input_formatter](https://github.com/gtgalone/currency_text_input_formatter)
+5. ❗️ Reopened issue [#8](https://github.com/gtgalone/currency_text_input_formatter/issues/8) in [gtgalone/currency_text_input_formatter](https://github.com/gtgalone/currency_text_input_formatter)
 <!--END_SECTION:activity-->
 
 </details>
