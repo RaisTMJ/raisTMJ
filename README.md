@@ -43,6 +43,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [resume time lapse. but no resume](https://www.youtube.com/watch?v=wBN9ypgckU8)
 - [Gimik presentation - parody imam muda](https://www.youtube.com/watch?v=83Ye9JhCDe4)
 - [FAR EAST buat iklan Tv](https://www.youtube.com/watch?v=puNMXyCpARw)
 - [Rais main golf. Agak agak ada orang tengok tak](https://www.youtube.com/watch?v=ujGUnIGVA4U)
