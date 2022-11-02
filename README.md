@@ -1,14 +1,12 @@
 ### Hi there, I'm  Mohamad Rais- aka [raisTMJ][website] 👋
 
-## I'm a  Developer, and friendly neighborhood spiderman!! 🕷️
+## I'm a   🕷️
 
 - 🌱 I’m currently learning more on flutter ,ux designing and data structure
 - 🥅 2020 Goals: to read more documentation 🍇
 - ⚡  I love to watch movies and series (b99) and animation
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/7etcwQv0FGewtBffKImXN1)
 
 ### Connect with me:
 
