@@ -1,10 +1,10 @@
-### Hi there, I'm  Mohamad Rais- aka [raisTMJ][website] 👋
+### Hi there, I'm Mohamad Rais 👋
 
-## I'm a   🕷️
+I'm a full-stack developer with 6+ years of experience, diving deep into the worlds of **.NET, Angular, and Flutter**. I've gone from apprentice to lead developer, wrangling DevOps pipelines on Azure, and even playing Scrum Master for my team. 🚀
 
-- 🌱 I’m currently learning more on flutter ,ux designing and data structure
-- 🥅 2020 Goals: to read more documentation 🍇
-- ⚡  I love to watch movies and series (b99) and animation
+- 🔭 I’m currently building cool things for Petronas using C#, Angular, and Azure Cloud.
+- ⚡ Fun fact: When I'm not coding, I love to watch movies and series (big fan of b99) and enjoy animations!
+- 📫 How to reach me: Drop me an email at rais95mohamad@gmail.com or connect with me on [LinkedIn][linkedin].
 
 
 
